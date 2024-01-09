@@ -1,0 +1,1 @@
+I was going through a bootcamp called Eleven Fifty academy and this is one of the projects that we worked on in the program. It is just a simple api project that uses an api and presents it on a one page static website.
